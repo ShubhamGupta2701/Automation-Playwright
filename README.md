@@ -5,7 +5,7 @@
 - case senstive language
 - interpreted
 
-#### <u> Varibales in Javascript </u>
+<u> ####  Varibales in Javascript </u>
 - let
 - var ( not used anymore )
 - const
