@@ -1,11 +1,11 @@
 # Automation using Playwright
 
-### <u> Javascript </u>
+### Javascript
 
 - case senstive language
 - interpreted
 
-<u> ####  Varibales in Javascript </u>
+#### Varibales in Javascript
 - let
 - var ( not used anymore )
 - const
