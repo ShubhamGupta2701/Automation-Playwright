@@ -19,6 +19,12 @@
     - [ ] Chained locators
 
 
+<details>
+<summary>Click to expand</summary>
+
+Hidden content here.
+</details>
+
 ### Javascript
 
 - case senstive language
