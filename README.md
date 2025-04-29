@@ -1,6 +1,7 @@
 # Automation using Playwright
 
-## Things to cover
+<details>
+<summary> **Things we are plan to cover** </summary>
 
 - [ ] Javascript
     - [ ] Basic JS
@@ -19,10 +20,6 @@
     - [ ] Chained locators
 
 
-<details>
-<summary>Click to expand</summary>
-
-Hidden content here.
 </details>
 
 ### Javascript
