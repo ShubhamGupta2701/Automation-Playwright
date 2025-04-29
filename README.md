@@ -1,7 +1,7 @@
 # Automation using Playwright
 
 <details>
-<summary> **Things we are plan to cover** </summary>
+<summary>Things we are plan to cover</summary>
 
 - [ ] Javascript
     - [ ] Basic JS
