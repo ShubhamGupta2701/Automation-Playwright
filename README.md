@@ -2,21 +2,21 @@
 
 ## Things to cover
 
-[] Javascript
-- [] Basic JS
-- [] Functions
-- [] Intermediate JS
+[ ] Javascript
+- [ ] Basic JS
+- [ ] Functions
+- [ ] Intermediate JS
 
-[] Typescript
-- [] Baisc TS
-- [] Interfaces
-- [] Enums
-- [] Generics
+[ ] Typescript
+- [ ] Baisc TS
+- [ ] Interfaces
+- [ ] Enums
+- [ ] Generics
 
-[] Playwright
-- [] Basic Playwright
-- [] Locators
-- [] Chained locators
+[ ] Playwright
+- [ ] Basic Playwright
+- [ ] Locators
+- [ ] Chained locators
 
 
 ### Javascript
