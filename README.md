@@ -33,7 +33,7 @@
 - const
 
 #### Scope of varibales
-![Variable features difference](differentVarFeatures.png)
+![Variable features difference](assets/differentVarFeatures.png)
 
 
 #### Difference between Initialization and Re-Initialization
