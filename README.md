@@ -37,15 +37,13 @@
 
 
 #### Difference between Re-declaration and Re-assignment
-- 
+- Re-declaration 
 ```
-Re-declaration : 
     var greet = "Hi"
     var greet = "Hello there!"  // Here we are Re-declaring the variable
 ```
-- 
+- Re-assignment
 ```
-Re-assignment :
     var greet = "hi"
     greet = "hi there!"  // Here we are just assigning a new value to the pre-declared variable
 ```
