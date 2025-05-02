@@ -32,7 +32,7 @@
 - var ( not used anymore ) ( old way to declare a variable )
 - const
 
-#### Scope of varibales
+#### Features of varibales
 ![Variable features difference](assets/differentVarFeatures.png)
 
 
@@ -63,3 +63,12 @@ console.log(name)  // xyz
 2. nested if-else
 3. else if
 4. switch
+
+
+#### Loops
+
+1. For loop
+2. For Of loop
+3. For In loop
+4. while
+5. do while

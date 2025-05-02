@@ -71,7 +71,10 @@ function checkDay(day){
             break;
         default:
             console.log("its sunday")
+            break;
     }
 }
 
-checkDay("monday")
+checkDay("satursday")
+
+
