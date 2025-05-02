@@ -59,8 +59,7 @@ console.log(name)  // xyz
 
 #### Conditional Statements
 
-- if-else
-- nested if-else
-- else if
-
-- switch
+1. if-else
+2. nested if-else
+3. else if
+4. switch
