@@ -29,5 +29,10 @@
 
 #### Varibales in Javascript
 - let
-- var ( not used anymore )
+- var ( not used anymore ) ( old way to declare a variable )
 - const
+
+-- Scope of varibales
+![Features of different variables](differentVarFeatures.png "Difference between variables")
+
+-- Difference between Initialization and Re-Initialization
