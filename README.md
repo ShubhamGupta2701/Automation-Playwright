@@ -47,3 +47,12 @@
     var greet = "hi"
     greet = "hi there!"  // Here we are just assigning a new value to the pre-declared variable
 ```
+
+#### Hoisting 
+* When we use the variable before intializing it, is known as hoisting
+``` 
+var name
+console.log(name)  // undefined
+name = "xyz"
+console.log(name)  // xyz
+```
