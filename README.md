@@ -33,6 +33,6 @@
 - const
 
 -- Scope of varibales
-![Features of different variables](differentVarFeatures.png "Difference between variables")
+![Alt Text](differentVarFeatures.png)
 
 -- Difference between Initialization and Re-Initialization
