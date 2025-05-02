@@ -1,4 +1,4 @@
-// If esle
+// If else
 
 function checkAge(age) {
     if(age >= 18){
