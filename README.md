@@ -32,7 +32,8 @@
 - var ( not used anymore ) ( old way to declare a variable )
 - const
 
--- Scope of varibales
-![Alt Text](differentVarFeatures.png)
+#### Scope of varibales
+![Variable features difference](differentVarFeatures.png)
 
--- Difference between Initialization and Re-Initialization
+
+#### Difference between Initialization and Re-Initialization
