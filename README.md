@@ -36,4 +36,11 @@
 ![Variable features difference](assets/differentVarFeatures.png)
 
 
-#### Difference between Initialization and Re-Initialization
+#### Difference between Re-declaration and Re-assignment
+- Re-declaration : 
+    var greet = "Hi"
+    var greet = "Hello there!"  // Here we are Re-declaring the variable
+
+- Re-assignment :
+    var greet = "hi"
+    greet = "hi there!"  // Here we are just assigning a new value to the pre-declared variable
