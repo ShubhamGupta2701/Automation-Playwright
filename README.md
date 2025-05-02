@@ -4,7 +4,7 @@
 <summary>Things we are plan to cover</summary>
 
 - [ ] Javascript
-    - [ ] Basic JS : 02/05/25 - 03/05/25
+    - [x] Basic JS : 02/05/25 - 02/05/25
     - [ ] Functions
     - [ ] Intermediate JS
 
