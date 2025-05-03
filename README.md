@@ -72,3 +72,4 @@ console.log(name)  // xyz
 3. For In loop
 4. while
 5. do while
+

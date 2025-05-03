@@ -63,7 +63,7 @@ function checkDay(day){
         case "thrusday":
             console.log("Its thrusday")
             break;
-        case "Monday":
+        case "friday":
             console.log("Its friday")
             break;
         case "satursday":
