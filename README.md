@@ -76,6 +76,9 @@ console.log(name)  // xyz
 #### Arrays
 
 - Array is a collection of data ( can be anything)
-`  let arr = [1, null, "shubham", True, 2.14]`  - hetrogeneous type of data
-or 
-` let arr = [1,2,3,4,5]`  - homogeneous type of data
+
+```
+let arr = [1, null, "shubham", True, 2.14]  - hetrogeneous type of data
+                        or 
+let arr = [1,2,3,4,5] - homogeneous type of data
+```
